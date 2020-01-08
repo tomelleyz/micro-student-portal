@@ -1,0 +1,5 @@
+{
+  "matricNumber": "18/52hl001",
+  "password": "abdul",
+  "name": "Abdul Helen Uchechi"
+}
